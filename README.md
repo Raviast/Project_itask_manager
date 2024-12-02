@@ -12,7 +12,16 @@ A modern todo application built with React and Vite, featuring a clean user inte
 
 <h2>🚀 Demo</h2>
 
-[https://drive.google.com/file/d/187XeRJa4-7FtA\_JyDTkPaNxDQZe8-xCx/view?usp=sharing](https://drive.google.com/file/d/187XeRJa4-7FtA_JyDTkPaNxDQZe8-xCx/view?usp=sharing)
+[https://res.cloudinary.com/do9zaevax/video/upload/v1733132137/pass\_op/jol4dipegi7av4b6csmo.mp4](https://res.cloudinary.com/do9zaevax/video/upload/v1733132137/pass_op/jol4dipegi7av4b6csmo.mp4)
+
+## Project Screenshots
+
+![alt text](https://github.com/Raviast/Project_itask_manager/blob/master/public/Screenshot%202024-12-02%20151143.png?raw=true)
+
+![alt text](https://github.com/Raviast/Project_itask_manager/blob/master/public/fiilled.png?raw=true)
+
+![alt text](https://github.com/Raviast/Project_itask_manager/blob/master/public/finished.png?raw=true)
+
 
 ## Tech Stack
 
